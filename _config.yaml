@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: snaqvi1990
+title: Naqvi Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Quantitative principles of gene regulation in development and disease.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@snaqvi1990.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: sahin.naqvi@gmail.com
+  orcid: 0000-0003-2635-7967
+  google-scholar: qxXD52oAAAAJ
   github: snaqvi1990
   twitter: snaqvi1990
-  youtube: snaqvi1990
+  youtube: 
 
 ### jekyll settings
 
