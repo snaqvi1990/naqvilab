@@ -1,6 +1,6 @@
 ---
 name: Sahin Naqvi
-image: images/photo.jpg
+image: images/lr6931_cropped.jpg
 role: pi
 aliases:
   - S. Naqvi
