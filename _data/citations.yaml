@@ -1,120 +1,479 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41588-023-01529-1
+  title: Systematic differences in discovery of genetic effects on gene expression
+    and complex traits
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Hakhamanesh Mostafavi
+  - Jeffrey P. Spence
+  - Sahin Naqvi
+  - Jonathan K. Pritchard
+  publisher: Nature Genetics
+  date: '2023-10-19'
+  link: https://doi.org/gszfpc
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.ade6289
+  title: A genome-wide genetic screen uncovers determinants of human pigmentation
+  authors:
+  - Vivek K. Bajpai
+  - Tomek Swigut
+  - Jaaved Mohammed
+  - Sahin Naqvi
+  - Martin Arreola
+  - Josh Tycko
+  - Tayne C. Kim
+  - Jonathan K. Pritchard
+  - Michael C. Bassik
+  - Joanna Wysocka
+  publisher: Science
+  date: '2023-08-11'
+  link: https://doi.org/gsk7kq
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.29.541540
+  title: DNA-guided transcription factor cooperativity shapes face and limb mesenchyme
+  authors:
+  - Seungsoo Kim
+  - Ekaterina Morgunova
+  - Sahin Naqvi
+  - Maram Bader
+  - Mervenaz Koska
+  - Alexander Popov
+  - Christy Luong
+  - Angela Pogson
+  - Peter Claes
+  - Jussi Taipale
+  - Joanna Wysocka
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-05-29'
+  link: https://doi.org/gszfpd
+  orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41588-023-01366-2
+  title: Precise modulation of transcription factor levels identifies features underlying
+    dosage sensitivity
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Sahin Naqvi
+  - Seungsoo Kim
+  - Hanne Hoskens
+  - Harold S. Matthews
+  - Richard A. Spritz
+  - Ophir D. Klein
+  - "Benedikt Hallgr\xEDmsson"
+  - Tomek Swigut
+  - Peter Claes
+  - Jonathan K. Pritchard
+  - Joanna Wysocka
+  publisher: Nature Genetics
+  date: '2023-04-06'
+  link: https://doi.org/gszfpf
+  orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41588-022-01106-y
+  title: Systematic discovery and perturbation of regulatory genes in human T cells
+    reveals the architecture of immune networks
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Jacob W. Freimer
+  - Oren Shaked
+  - Sahin Naqvi
+  - Nasa Sinnott-Armstrong
+  - Arwa Kathiria
+  - Christian M. Garrido
+  - Amy F. Chen
+  - Jessica T. Cortez
+  - William J. Greenleaf
+  - Jonathan K. Pritchard
+  - Alexander Marson
+  publisher: Nature Genetics
+  date: '2022-07-11'
+  link: https://doi.org/gqg3r6
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.06.13.495964
+  title: Precise modulation of transcription factor levels reveals drivers of dosage
+    sensitivity
+  authors:
+  - Sahin Naqvi
+  - Seungsoo Kim
+  - Hanne Hoskens
+  - Harry S. Matthews
+  - Richard A. Spritz
+  - Ophir D. Klein
+  - "Benedikt Hallgr\xEDmsson"
+  - Tomek Swigut
+  - Peter Claes
+  - Jonathan K. Pritchard
+  - Joanna Wysocka
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-06-14'
+  link: https://doi.org/gsxw4z
+  orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.5281/zenodo.6596464
+  title: Precise modulation of transcription factor levels identifies features underlying
+    dosage sensitivity
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - 'Sahin '
+  publisher: Zenodo
+  date: '2022-05-30'
+  link: https://doi.org/gszfpg
+  orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1101/2022.05.07.491045
+  title: Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Hakhamanesh Mostafavi
+  - Jeffrey P. Spence
+  - Sahin Naqvi
+  - Jonathan K. Pritchard
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-05-08'
+  link: https://doi.org/gszfph
+  orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1371/journal.pgen.1009695
+  title: Genome scans of facial features in East Africans and cross-population comparisons
+    reveal novel associations
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Chenxing Liu
+  - Myoung Keun Lee
+  - Sahin Naqvi
+  - Hanne Hoskens
+  - Dongjing Liu
+  - Julie D. White
+  - Karlijne Indencleef
+  - Harold Matthews
+  - Ryan J. Eller
+  - Jiarui Li
+  - Jaaved Mohammed
+  - Tomek Swigut
+  - Stephen Richmond
+  - Mange Manyama
+  - "Benedikt Hallgr\xEDmsson"
+  - Richard A. Spritz
+  - Eleanor Feingold
+  - Mary L. Marazita
+  - Joanna Wysocka
+  - Susan Walsh
+  - Mark D. Shriver
+  - Peter Claes
+  - Seth M. Weinberg
+  - John R. Shaffer
+  publisher: PLOS Genetics
+  date: '2021-08-19'
+  link: https://doi.org/gszfpj
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-021-00827-w
+  title: Shared heritability of human face and brain shape
+  authors:
+  - Sahin Naqvi
+  - Yoeri Sleyp
+  - Hanne Hoskens
+  - Karlijne Indencleef
+  - Jeffrey P. Spence
+  - Rose Bruffaerts
+  - Ahmed Radwan
+  - Ryan J. Eller
+  - Stephen Richmond
+  - Mark D. Shriver
+  - John R. Shaffer
+  - Seth M. Weinberg
+  - Susan Walsh
+  - James Thompson
+  - Jonathan K. Pritchard
+  - Stefan Sunaert
+  - Hilde Peeters
+  - Joanna Wysocka
+  - Peter Claes
+  publisher: Nature Genetics
+  date: '2021-04-05'
+  link: https://doi.org/gjp2mn
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1009528
+  title: 3D facial phenotyping by biometric sibling matching used in contemporary
+    genomic methodologies
+  authors:
+  - Hanne Hoskens
+  - Dongjing Liu
+  - Sahin Naqvi
+  - Myoung Keun Lee
+  - Ryan J. Eller
+  - Karlijne Indencleef
+  - Julie D. White
+  - Jiarui Li
+  - Maarten H. D. Larmuseau
+  - Greet Hens
+  - Joanna Wysocka
+  - Susan Walsh
+  - Stephen Richmond
+  - Mark D. Shriver
+  - John R. Shaffer
+  - Hilde Peeters
+  - Seth M. Weinberg
+  - Peter Claes
+  publisher: PLOS Genetics
+  date: '2021-05-13'
+  link: https://doi.org/gpfxh7
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-021-00849-4
+  title: "Publisher Correction: Human\u2013chimpanzee fused cells reveal cis-regulatory\
+    \ divergence underlying skeletal evolution"
+  authors:
+  - David Gokhman
+  - Rachel M. Agoglia
+  - Maia Kinnebrew
+  - Wei Gordon
+  - Danqiong Sun
+  - Vivek K. Bajpai
+  - Sahin Naqvi
+  - Coral Chen
+  - Anthony Chan
+  - Chider Chen
+  - Dmitri A. Petrov
+  - Nadav Ahituv
+  - Honghao Zhang
+  - Yuji Mishina
+  - Joanna Wysocka
+  - Rajat Rohatgi
+  - Hunter B. Fraser
+  publisher: Nature Genetics
+  date: '2021-03-24'
+  link: https://doi.org/gszfpk
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-021-00804-3
+  title: "Human\u2013chimpanzee fused cells reveal cis-regulatory divergence underlying\
+    \ skeletal evolution"
+  authors:
+  - David Gokhman
+  - Rachel M. Agoglia
+  - Maia Kinnebrew
+  - Wei Gordon
+  - Danqiong Sun
+  - Vivek K. Bajpai
+  - Sahin Naqvi
+  - Coral Chen
+  - Anthony Chan
+  - Chider Chen
+  - Dmitri A. Petrov
+  - Nadav Ahituv
+  - Honghao Zhang
+  - Yuji Mishina
+  - Joanna Wysocka
+  - Rajat Rohatgi
+  - Hunter B. Fraser
+  publisher: Nature Genetics
+  date: '2021-03-17'
+  link: https://doi.org/gszfpm
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.58615
+  title: GWAS of three molecular traits highlights core genes and pathways alongside
+    a highly polygenic background
+  authors:
+  - Nasa Sinnott-Armstrong
+  - Sahin Naqvi
+  - Manuel Rivas
+  - Jonathan K Pritchard
+  publisher: eLife
+  date: '2021-02-15'
+  link: https://doi.org/gszfpn
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-020-00741-7
+  title: Insights into the genetic architecture of the human face
+  authors:
+  - Julie D. White
+  - Karlijne Indencleef
+  - Sahin Naqvi
+  - Ryan J. Eller
+  - Hanne Hoskens
+  - Jasmien Roosenboom
+  - Myoung Keun Lee
+  - Jiarui Li
+  - Jaaved Mohammed
+  - Stephen Richmond
+  - Ellen E. Quillen
+  - Heather L. Norton
+  - Eleanor Feingold
+  - Tomek Swigut
+  - Mary L. Marazita
+  - Hilde Peeters
+  - Greet Hens
+  - John R. Shaffer
+  - Joanna Wysocka
+  - Susan Walsh
+  - Seth M. Weinberg
+  - Mark D. Shriver
+  - Peter Claes
+  publisher: Nature Genetics
+  date: '2020-12-07'
+  link: https://doi.org/ghnxp3
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.08.29.269258
+  title: Shared heritability of face and brain shape distinct from cognitive traits
+  authors:
+  - Sahin Naqvi
+  - Yoeri Sleyp
+  - Hanne Hoskens
+  - Karlijne Indencleef
+  - Jeffrey P. Spence
+  - Rose Bruffaerts
+  - Ahmed Radwan
+  - Ryan J. Eller
+  - Stephen Richmond
+  - Mark D. Shriver
+  - John R. Shaffer
+  - Seth M. Weinberg
+  - Susan Walsh
+  - James Thompson
+  - Jonathan K. Pritchard
+  - Stefan Sunaert
+  - Hilde Peeters
+  - Joanna Wysocka
+  - Peter Claes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-29'
+  link: https://doi.org/gszfpp
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.261248.120
+  title: Quantitative analysis of Y-Chromosome gene expression across 36 human tissues
+  authors:
+  - Alexander K. Godfrey
+  - Sahin Naqvi
+  - "Luk\xE1\u0161 Chm\xE1tal"
+  - Joel M. Chick
+  - Richard N. Mitchell
+  - Steven P. Gygi
+  - Helen Skaletsky
+  - David C. Page
+  publisher: Genome Research
+  date: '2020-05-27'
+  link: https://doi.org/ggx4q2
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.12.090555
+  title: Insights into the genetic architecture of the human face
+  authors:
+  - Julie D. White
+  - Karlijne Indencleef
+  - Sahin Naqvi
+  - Ryan J. Eller
+  - Jasmien Roosenboom
+  - Myoung Keun Lee
+  - Jiarui Li
+  - Jaaved Mohammed
+  - Stephen Richmond
+  - Ellen E. Quillen
+  - Heather L. Norton
+  - Eleanor Feingold
+  - Tomek Swigut
+  - Mary L. Marazita
+  - Hilde Peeters
+  - Greet Hens
+  - John R. Shaffer
+  - Joanna Wysocka
+  - Susan Walsh
+  - Seth M. Weinberg
+  - Mark D. Shriver
+  - Peter Claes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-14'
+  link: https://doi.org/gsxzrk
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.20.051631
+  title: GWAS of three molecular traits highlights core genes and pathways alongside
+    a highly polygenic background
+  authors:
+  - Nasa Sinnott-Armstrong
+  - Sahin Naqvi
+  - Manuel Rivas
+  - Jonathan K Pritchard
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-22'
+  link: https://doi.org/ghsztd
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aaw7317
+  title: Conservation, acquisition, and functional impact of sex-biased gene expression
+    in mammals
+  authors:
+  - Sahin Naqvi
+  - Alexander K. Godfrey
+  - Jennifer F. Hughes
+  - Mary L. Goodheart
+  - Richard N. Mitchell
+  - David C. Page
+  publisher: Science
+  date: '2019-07-19'
+  link: https://doi.org/gf5tfb
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.230433.117
+  title: Conserved microRNA targeting reveals preexisting gene dosage sensitivities
+    that shaped amniote sex chromosome evolution
+  authors:
+  - Sahin Naqvi
+  - Daniel W. Bellott
+  - Kathy S. Lin
+  - David C. Page
+  publisher: Genome Research
+  date: '2018-02-15'
+  link: https://doi.org/gc4x4r
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/119016
+  title: Preexisting heterogeneities in gene dosage sensitivity shaped sex chromosome
+    evolution in mammals and birds
+  authors:
+  - Sahin Naqvi
+  - Daniel W. Bellott
+  - David C. Page
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-21'
+  link: https://doi.org/gk3mpv
+  orcid: 0000-0003-2635-7967
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.110.248102
+  title: Chemical Sensing by Nonequilibrium Cooperative Receptors
+  authors:
+  - Monica Skoge
+  - Sahin Naqvi
+  - Yigal Meir
+  - Ned S. Wingreen
+  publisher: Physical Review Letters
+  date: '2013-06-11'
+  link: https://doi.org/gkrsrr
+  orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -130,9 +489,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -149,21 +505,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
