@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Sahin Naqvi
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - S. Naqvi
+  - S Naqvi
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://snaqvi1990.github.io/naqvilab/
+  orcid: 0000-0003-2635-7967
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
