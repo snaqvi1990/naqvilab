@@ -1,7 +1,7 @@
 ---
 ---
 
-# snaqvi1990's Website
+## Quantitative principles of gene regulation in development and disease
 
 An engaging 1-3 sentence description of your lab.
 
