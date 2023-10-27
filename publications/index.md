@@ -14,8 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Precise modulation of transcription factor levels identifies features underlying
-    dosage sensitivity" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="rich" %}
 
 {% include section.html %}
 
