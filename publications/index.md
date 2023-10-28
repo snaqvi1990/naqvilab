@@ -12,9 +12,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+## Key Publications
 
-{% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="basic" %}
+
+{% include citation.html lookup="doi:10.1146/annurev-genom-120121-102607" style="basic" %}
 
 {% include section.html %}
 
