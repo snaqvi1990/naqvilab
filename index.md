@@ -91,6 +91,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Key publications
 
+{% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="basic" %}
+
+{% include citation.html lookup="doi:10.1146/annurev-genom-120121-102607" style="basic" %}
+
+{% include citation.html lookup="doi:10.1038/s41588-021-00827-w" style="basic" %}
+
+{% include citation.html lookup="doi:10.1101/2020.04.20.051631" style="basic" %}
+
+{% include citation.html lookup="doi:10.1126/science.aaw7317" style="basic" %}
+
+{% include citation.html lookup="doi:10.1101/gr.230433.117" style="basic" %}
+
 {% include section.html %}
 
 ## Support
