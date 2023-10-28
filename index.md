@@ -106,6 +106,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html %}
 
 ## Support
+{% include section.html %}
 
 {% capture col1 %}
 
@@ -124,10 +125,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% endcapture %}
-
-{% include section.html %}
+{% include cols.html col1=col1 col2=col2 %}
 
 ## Affiliations
+{% include section.html %}
 
 {% capture col1 %}
 
@@ -146,5 +147,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html %}
