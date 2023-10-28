@@ -12,6 +12,7 @@ An engaging 1-3 sentence description of your lab.
 %}
 
 ## Research
+{:.center}
 
 {% capture text %}
 
@@ -87,10 +88,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html %}
 
 ## Team
+{:.center}
 
 {% include section.html %}
 
 ## Key publications
+{:.center}
 
 {% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="basic" %}
 
@@ -107,6 +110,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html %}
 
 ## Support
+{:.center}
+
 {% include section.html %}
 
 {% capture col1 %}
@@ -129,6 +134,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include cols.html col1=col1 col2=col2 %}
 
 ## Affiliations
+{:.center}
+
 {% include section.html %}
 
 {% capture col1 %}
