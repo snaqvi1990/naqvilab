@@ -7,7 +7,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
-## Highlights
+## Research
 
 {% capture text %}
 
@@ -79,3 +79,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+## Team
+
+{% include section.html %}
+
+## Key publications
+
+{% include section.html %}
+
+## Support
+
+{% include section.html %}
+
+## Affiliations
+
+{% include section.html %}
