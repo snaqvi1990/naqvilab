@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-## Selected
+## Selected Publications
 
 {% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="basic" %}
 
@@ -21,7 +21,7 @@ nav:
 
 {% include section.html %}
 
-## All
+## All Publications
 
 {% include search-box.html %}
 
