@@ -107,8 +107,42 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Support
 
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/bch.png"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/nidcr.png"
+%}
+
+{% endcapture %}
 {% include section.html %}
 
 ## Affiliations
 
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/bch.png"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/hms_teaching.png"
+%}
+
+{% endcapture %}
 {% include section.html %}
