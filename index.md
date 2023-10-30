@@ -90,6 +90,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Team
 {:.center}
 
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
 {% include section.html %}
 
 ## Key publications
