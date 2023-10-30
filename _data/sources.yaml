@@ -1,2 +1,18 @@
 - id: doi:10.1038/s41588-023-01366-2
 - id: doi:10.1146/annurev-genom-120121-102607
+
+- id: doi:10.1101/2022.06.13.495964
+  title: Precise modulation of transcription factor levels reveals drivers of dosage
+    sensitivity
+  authors:
+  - <b>Sahin Naqvi</b>
+  - Seungsoo Kim
+  - Hanne Hoskens
+  - Harry S. Matthews
+  - Richard A. Spritz
+  - Ophir D. Klein
+  - "Benedikt Hallgr\xEDmsson"
+  - Tomek Swigut
+  - Peter Claes
+  - Jonathan K. Pritchard
+  - Joanna Wysocka
