@@ -1,7 +1,7 @@
 ---
 ---
 
-# Quantitative principles of gene regulation in development and disease
+# <font size="-1">Quantitative principles of gene regulation in development and disease</font>
 {:.center}
 
 An engaging 1-3 sentence description of your lab.
