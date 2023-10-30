@@ -1,7 +1,7 @@
 ---
 ---
 
-# <p style="font-size: smaller">Quantitative principles of gene regulation in development and disease</p>
+# <font size="-0.005">Quantitative principles of gene regulation in development and disease</font>
 {:.center}
 
 {% 
