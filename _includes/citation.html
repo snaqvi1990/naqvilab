@@ -38,7 +38,7 @@
 
     <div
       class="citation-authors"
-      {% if citation.authors.size > 10 %}
+      {% if citation.authors.size > 6 %}
         data-tooltip="{{ citation.authors | join: ", " }} "
       {% endif %}
       tabindex="0"
