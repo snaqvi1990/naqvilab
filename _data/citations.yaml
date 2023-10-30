@@ -305,7 +305,7 @@
 - id: doi:10.1038/s41588-020-00741-7
   title: Insights into the genetic architecture of the human face
   authors:
-  - "Julie D. White<span>&#42;</span></span><sup>\u2021</sup>"
+  - "Julie D. White<span>&#42;</span><sup>\u2021</sup>"
   - Karlijne Indencleef<span>&#42;</span>
   - Sahin Naqvi
   - Ryan J. Eller
@@ -327,7 +327,7 @@
   - Susan Walsh
   - Seth M. Weinberg
   - Mark D. Shriver
-  - "Peter Claes</span><sup>\u2021</sup>"
+  - "Peter Claes<sup>\u2021</sup>"
   publisher: Nature Genetics
   date: '2020-12-07'
   link: https://doi.org/ghnxp3
@@ -495,8 +495,8 @@
   - John R. Shaffer
   - Susan Walsh
   - Mark D. Shriver
-  - "Joanna Wysocka</span><sup>\u2021</sup>"
-  - "Peter Claes</span><sup>\u2021</sup>"
+  - "Joanna Wysocka<sup>\u2021</sup>"
+  - "Peter Claes<sup>\u2021</sup>"
   publisher: Annual Review of Genomics and Human Genetics
   date: '2022-08-31'
   link: https://doi.org/gsz43w
