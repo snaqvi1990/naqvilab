@@ -5,9 +5,32 @@
 - id: doi:10.1038/s41588-023-01529-1
 
 - id: doi:10.1126/science.ade6289
+  authors:
+  - Vivek K. Bajpai
+  - Tomek Swigut
+  - Jaaved Mohammed<span>&#42;</span>
+  - Sahin Naqvi<span>&#42;</span>
+  - Martin Arreola
+  - Josh Tycko
+  - Tayne C. Kim
+  - Jonathan K. Pritchard
+  - Michael C. Bassik
+  - Joanna Wysocka
 
 - id: doi:10.1101/2023.05.29.541540
-
+  authors:
+  - Seungsoo Kim
+  - Ekaterina Morgunova<span>&#42;</span>
+  - Sahin Naqvi<span>&#42;</span>
+  - Maram Bader
+  - Mervenaz Koska
+  - Alexander Popov
+  - Christy Luong
+  - Angela Pogson
+  - Peter Claes
+  - Jussi Taipale
+  - Joanna Wysocka
+  
 - id: doi:10.1038/s41588-023-01366-2
   authors:
   - Sahin Naqvi
@@ -21,6 +44,85 @@
   - Peter Claes
   - Jonathan K. Pritchard<sup>‡</sup>
   - Joanna Wysocka<sup>‡</sup>
+
+- id: doi:10.1038/s41588-021-00827-w
+  title: Shared heritability of human face and brain shape
+  authors:
+  - Sahin Naqvi<span>&#42;</span><sup>‡</sup>
+  - Yoeri Sleyp<span>&#42;</span>
+  - Hanne Hoskens
+  - Karlijne Indencleef
+  - Jeffrey P. Spence
+  - Rose Bruffaerts
+  - Ahmed Radwan
+  - Ryan J. Eller
+  - Stephen Richmond
+  - Mark D. Shriver
+  - John R. Shaffer
+  - Seth M. Weinberg
+  - Susan Walsh
+  - James Thompson
+  - Jonathan K. Pritchard
+  - Stefan Sunaert
+  - Hilde Peeters
+  - Joanna Wysocka<sup>‡</sup>
+  - Peter Claes<sup>‡</sup>
+
+- id: doi:10.7554/eLife.58615
+  title: GWAS of three molecular traits highlights core genes and pathways alongside
+    a highly polygenic background
+  authors:
+  - Nasa Sinnott-Armstrong<span>&#42;</span><sup>‡</sup>
+  - Sahin Naqvi<span>&#42;</span>
+  - Manuel Rivas
+  - Jonathan K Pritchard<sup>‡</sup>
+
+- id: doi:10.1038/s41588-020-00741-7
+  title: Insights into the genetic architecture of the human face
+  authors:
+  - Julie D. White<span>&#42;</span></span><sup>‡</sup>
+  - Karlijne Indencleef<span>&#42;</span>
+  - Sahin Naqvi
+  - Ryan J. Eller
+  - Hanne Hoskens
+  - Jasmien Roosenboom
+  - Myoung Keun Lee
+  - Jiarui Li
+  - Jaaved Mohammed
+  - Stephen Richmond
+  - Ellen E. Quillen
+  - Heather L. Norton
+  - Eleanor Feingold
+  - Tomek Swigut
+  - Mary L. Marazita
+  - Hilde Peeters
+  - Greet Hens
+  - John R. Shaffer
+  - Joanna Wysocka
+  - Susan Walsh
+  - Seth M. Weinberg
+  - Mark D. Shriver
+  - Peter Claes</span><sup>‡</sup>
+
+- id: doi:10.1146/annurev-genom-120121-102607
+  title: 'Decoding the Human Face: Progress and Challenges in Understanding the Genetics
+    of Craniofacial Morphology'
+  authors:
+  - Sahin Naqvi<span>&#42;</span>
+  - Hanne Hoskens<span>&#42;</span>
+  - Franziska Wilke
+  - Seth M. Weinberg
+  - John R. Shaffer
+  - Susan Walsh
+  - Mark D. Shriver
+  - Joanna Wysocka</span><sup>‡</sup>
+  - Peter Claes</span><sup>‡</sup>
+
+- id: doi:10.1038/s41588-021-00849-4
+  remove: y
+
+- id: doi:10.5281/zenodo.6596464
+  remove: y
 
 - id: doi:10.1101/2022.06.13.495964
   remove: y
