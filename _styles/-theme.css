@@ -21,9 +21,9 @@
 }
 
 :root {
-  --title: "Raleway", sans-serif;
-  --heading: "Raleway", sans-serif;
-  --body: "Raleway", sans-serif;
+  --title: "Roboto", sans-serif;
+  --heading: "Roboto", sans-serif;
+  --body: "Roboto", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.15rem;
