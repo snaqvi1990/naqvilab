@@ -1,7 +1,7 @@
 ---
 ---
 
-# **Quantitative principles of gene regulation in development and disease**
+# Quantitative principles of gene regulation in development and disease
 {:.center}
 
 The Naqvi lab seeks to build a quantitative understanding of how gene expression is controlled in development, and how these control mechanisms result in "tipping points" in disease. To address these goals, we combine functional genomics and computational modeling with stem cell-derived _in vitro_ models of development.
