@@ -6,7 +6,7 @@
 
 {% 
   include section.html
-  size=full
+  data-size="full"
 %}
 
 ## Research
