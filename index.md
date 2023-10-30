@@ -14,6 +14,12 @@
 ## Research
 {:.center}
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+%}
+
 The Naqvi lab seeks to build a quantitative understanding of how gene expression is controlled in development and how these control mechanisms result in "tipping points" in disease. To address these goals, we combine functional genomics and computational modeling with stem cell-derived _in vitro_ models of development.
 {:.center}
 
@@ -28,51 +34,6 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 %}
 
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 {% include section.html %}
 
