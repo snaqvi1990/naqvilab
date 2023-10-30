@@ -14,7 +14,9 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The molecular machinery that controls how other genes are expressed is critical for cellular identity and development, and thus must be robust to perturbations. At the same time, quantitative changes in the dosage of this transcriptional machinery are a frequent cause of both rare, developmental disorders as well as common variation in traits and disease risk.
+
+
 
 {%
   include button.html
@@ -31,7 +33,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
   text=text
 %}
 
