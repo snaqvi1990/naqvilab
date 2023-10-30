@@ -25,4 +25,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="basic" %}
+{% include list.html data="citations" component="citation" style="basic" filters="remove: ^(?!y$)"%}
