@@ -1,7 +1,7 @@
 ---
 ---
 
-## QUANTITATIVE PRINCIPLES OF GENE REGULATION IN DEVELOPMENT AND DISEASE
+# Quantitative principles of gene regulation in development and disease
 {:.center}
 
 {% 
