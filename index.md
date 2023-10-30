@@ -14,8 +14,7 @@
 
 {% capture text %}
 
-The molecular machinery that controls how other genes are expressed is critical for cellular identity and development, and thus must be robust to perturbations. At the same time, quantitative changes in the dosage of this transcriptional machinery are a frequent cause of both rare, developmental disorders as well as common variation in traits and disease risk.
-
+The molecular machinery that controls transcription - when and to what extent genes are turned on - is critical for cellular identity and development. Quantitative perturbations to this transcriptional machinery are a frequent cause of both rare, developmental disorders and common variation in trait and disease risk.
 
 
 {%
