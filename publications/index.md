@@ -19,7 +19,7 @@ nav:
 
 {% include section.html %}
 
-## All Publications
+## All Publications (<span>&#42;</span>equal contribution, <sup>‡</sup>co-corresponding)
 
 {% include search-box.html %}
 
