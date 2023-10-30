@@ -5,10 +5,13 @@ nav:
   tooltip: Open positions
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-users" %}Join us
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are recruiting at all levels, from undergraduates to postdoctoral fellows. Please scroll down for more information if interested in working on exciting questions at the interface of gene regulation, human genetics, computational modeling, and developmental biology. Don't hesitate to <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a>  with further questions about the lab.
+
+<br>
+
+We welcome scientists with 
 
 {% include section.html %}
 
