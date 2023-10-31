@@ -112,6 +112,7 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 {%
   include figure.html
   image="images/bch.png"
+  link="https://www.childrenshospital.org/"
 %}
 
 {% endcapture %}
@@ -121,6 +122,7 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 {%
   include figure.html
   image="images/hms_teaching.png"
+  link="https://hms.harvard.edu/"
 %}
 
 {% endcapture %}
