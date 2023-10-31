@@ -16,12 +16,13 @@ We are seeking to build a welcoming, inclusive, and intellectually engaging envi
 
 ## Postdoctoral fellows
 Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with your overarching scientific interests, research areas in the Naqvi lab that you are interested in pursuing, and a brief summary of your graduate research. Please include your CV as well as names and contact information for three references. 
-
 {% include section.html %}
 
 ## Graduate students
 Students enrolled in one of the <a href="https://gsas.harvard.edu/office/harvard-integrated-life-sciences">Harvard Integrated Life Sciences</a> graduate programs or the <a href="https://www.hms.harvard.edu/md_phd/">Harvard/MIT MD-PhD Program</a> should <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> to discuss your interests, ongoing work in the lab, and potential rotation projects. 
-
+<br> 
+<br>
+Prospective graduate students with an interest in the lab's work but unsure of which graduate program to apply to should write in advance of applying to discuss - graduate school admissions can be complex and daunting to navigate and we are happy to provide advice!
 {% include section.html %}
 
 ## Research associates
