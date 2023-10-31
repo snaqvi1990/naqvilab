@@ -27,19 +27,19 @@ Prospective graduate students with an interest in the lab's work but unsure of w
 
 ## Research associates
 
-Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a with your CV, a statement of your interests, a rough estimate of how long you plan to stay in the lab (if you plan on applying to graduate programs while in the lab).
+Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with your CV, a statement of your interests, a rough estimate of how long you plan to stay in the lab (if you plan on applying to graduate programs while in the lab).
 
 {% include section.html %}
 
 ## Undergraduates
 
-We welcome enquiries from students enrolled in any college or university. Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a with any relevant coursework, a statement of your interests, and a rough estimate of how long you plan to stay in the lab.
+We welcome enquiries from students enrolled in any college or university. Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with any relevant coursework, a statement of your interests, and a rough estimate of how long you plan to stay in the lab.
 
 {% include section.html %}
 
 ## Visiting students
 
-Master's or PhD students from other labs in the U.S. or internationally are welcome to <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a with a CV, statement of interests, and rough timeframe.  
+Master's or PhD students from other labs in the U.S. or internationally are welcome to <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with a CV, statement of interests, and rough timeframe.  
 
 {% include section.html %}
 
