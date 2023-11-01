@@ -9,6 +9,7 @@
 {% 
   include section.html
   data-size="full"
+  dark=true
 %}
 
 ## Research
