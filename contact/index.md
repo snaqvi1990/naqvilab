@@ -34,8 +34,8 @@ We are a part of the <a href="https://www.childrenshospital.org/research/divisio
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/karp.jpeg"
+  caption="Karp Research Building"
 %}
 
 {% endcapture %}
@@ -44,8 +44,8 @@ We are a part of the <a href="https://www.childrenshospital.org/research/divisio
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/longwood.jpeg"
+  caption="Longwood Medical Area"
 %}
 
 {% endcapture %}
