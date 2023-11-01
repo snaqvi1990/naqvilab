@@ -76,7 +76,7 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 
 {% include section.html %}
 
-## Support
+<!--## Support
 {:.center}
 
 {% capture col1 %}
@@ -99,7 +99,7 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
-
+-->
 ## Affiliations
 {:.center}
 
