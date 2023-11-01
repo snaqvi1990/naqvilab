@@ -1,14 +1,8 @@
 ---
 ---
-{% 
-  include section.html
-  data-size="full"
-  dark=True
-%}
 
 # Quantitative principles of gene regulation in development and disease
 {:.center}
-
 
 
 {% 
@@ -37,8 +31,6 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
   flip=true
   style="bare"
 %}
-
-
 
 {% include section.html %}
 
@@ -86,8 +78,6 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 ## Support
 {:.center}
 
-{% include section.html %}
-
 {% capture col1 %}
 
 {%
@@ -107,10 +97,10 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
 
+{% include section.html %}
+
 ## Affiliations
 {:.center}
-
-{% include section.html %}
 
 {% capture col1 %}
 
@@ -132,4 +122,6 @@ The Naqvi lab seeks to build a quantitative understanding of how gene expression
 
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
+{% include section.html %}
+
 
