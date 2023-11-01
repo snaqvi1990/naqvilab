@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a part of the <a href="https://www.childrenshospital.org/research/divisions/gastroenterology-hepatology-and-nutrition-research">Division of Gastroenterology, Hepatology, and Nutrition</a> at Boston Children's Hospital. The Naqvi lab is located on the 8th floor of the Karp Research Building in the Longwood Medical Area. 
 
 {%
   include button.html
