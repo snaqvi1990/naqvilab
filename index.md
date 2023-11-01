@@ -8,6 +8,7 @@
 {% 
   include section.html
   data-size="full"
+  dark=True
 %}
 
 ## Research
