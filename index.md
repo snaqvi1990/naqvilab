@@ -1,9 +1,9 @@
 ---
 ---
 
-# Quantitative principles of gene regulation in development and disease
+# Analog genomics
 {:.center}
-
+The Naqvi lab seeks to discover quantitative principles of gene expression control during development and understand how such control mechanisms result in "tipping points" in disease. 
 
 {% 
   include section.html
