@@ -5,7 +5,7 @@ nav:
   tooltip: Research in the lab
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# {% include icon.html icon="fa-solid fa-magnifying-glass" %}Research
 
 The molecular machinery that controls transcription - when and to what extent genes are turned on - is critical for cellular identity and development. Quantitative perturbations to this transcriptional machinery are a frequent cause of both rare, developmental disorders and common variation in trait and disease risk.
 
