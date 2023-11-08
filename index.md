@@ -4,7 +4,7 @@
 # Analog genomics
 {:.center}
 
-The Naqvi lab seeks to understand how gene expression is controlled during development and how such control mechanisms create quantitative "tipping points" for disease. 
+We seek to understand how gene expression is controlled during development and how such control mechanisms create quantitative "tipping points" for disease. 
 {:.center}
 
 {% 
