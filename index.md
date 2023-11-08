@@ -4,7 +4,7 @@
 # Analog genomics
 {:.center}
 
-We seek to understand how gene expression is controlled during development and how such control mechanisms create quantitative "tipping points" for disease. 
+We seek a quantitative understanding of how gene expression is controlled in development and how these control mechanisms result in "tipping points" in disease. 
 {:.center}
 
 {% 
@@ -22,7 +22,9 @@ We seek to understand how gene expression is controlled during development and h
   link="research"
 %}
 
-The Naqvi lab seeks to build a quantitative understanding of how gene expression is controlled in development and how these control mechanisms result in "tipping points" in disease. To address these goals, we combine functional genomics and computational modeling with stem cell-derived _in vitro_ models of development.
+Studies of both organismal development and genetic causes of human disease point to a critical role of gene expression _levels_ in both processes. A mechanistic underestanding of how such quantitative dosage effects lead to disease could lead to more precise, controlled therapies.     
+<br>
+Despite the prevalence of quantitative dosaage effects, experimental studies of gene function have largely used "on-off" tools. To address these goals, we combine functional genomics and computational modeling with stem cell-derived _in vitro_ models of development.
 {:.center}
 
 
