@@ -9,6 +9,7 @@ nav:
 
 The molecular machinery that controls transcription - when and to what extent genes are turned on - is critical for cellular identity and development. Quantitative perturbations to this transcriptional machinery are a frequent cause of both rare, developmental disorders and common variation in trait and disease risk.
 
+Gene expression levels are precisely regulated during development, and quantitative perturbations to this process are a frequent cause of human disease. Despite the prevalence of quantitative dosaage effects, experimental studies of gene function have largely used "on-off" tools. 
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
