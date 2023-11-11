@@ -20,7 +20,7 @@
 %}
 We seek to understand the quantitative control of gene expression in development and the resulting "tipping points" in disease, knowledge that can lead to more precise, controlled therapies for a range of rare and common disorders.     
 <br>
- To achieve these goals, we combine highly quantitative perturbations with functional genomics and computational modeling using stem cell-derived _in vitro_ models of development.
+ To achieve these goals, we combine functional genomics and computational modeling using stem cell-derived _in vitro_ models of development. A common theme across projects is the use of quantitative perturbations and approaches. 
 {:.center}
 
 
