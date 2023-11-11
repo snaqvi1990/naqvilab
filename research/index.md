@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Tools to expand the scope and scale of quantitative perturbations"
+  title="Expanding the scope and scale of quantitative perturbations"
   flip=true
   style="bare"
   text=text
