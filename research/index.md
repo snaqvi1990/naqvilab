@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Cell type specificity of TF dosage"
+  title="Cell type specificity of TF dosage sensitivity"
   flip=true
   style="bare"
   text=text
