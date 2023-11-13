@@ -15,8 +15,6 @@ nav:
 
 {% include citation.html lookup="doi:10.1126/science.aaw7317" style="basic" %}
 
-{% include citation.html lookup="doi:10.1101/gr.230433.117" style="basic" %}
-
 {% include section.html %}
 
 ## All Publications (<span>&#42;</span>equal contribution, <sup>‡</sup>co-corresponding)
