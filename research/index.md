@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-magnifying-glass" %}Research
 
-Gene expression levels are precisely regulated during development - quantitative perturbations to this process are a frequent cause of both rare and common human disease. However, most experimental tools that have been applied to study gene are binary in nature. Therefore, the overall goal of the lab is to develop and apply tools to quantitatively perturb gene regulation to understand both basic mechanisms of gene regulation and how this goes awry in disease.
+Gene expression levels are precisely regulated during development - quantitative perturbations to this process are a frequent cause of both rare and common human disease. However, most experimental tools that have been applied to study gene function are binary in nature. Therefore, the overall goal of the lab is to develop and apply tools to quantitatively perturb gene regulation to understand both basic mechanisms of gene regulation and how this goes awry in disease.
 
 Much of the lab's work centers on transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters to ensure the sufficient and timely production of RNA (or lack thereof). Work by us and others have highlighted TFs as particularly dosage-sensitive - quantitative changes of 50% or less in TF levels frequent cause rare disorders or common variation in human trait and disease risk.  
 
@@ -38,7 +38,7 @@ In addition to being dosage-sensitive, TFs are pleiotropic - they have important
 
 {% capture text %}
 
-Recent advances in machine learning and artifical intelligence have made substantial advances in learning the sequence features that predict cell type-specific chromatin and gene regulatory networks. However, the vast majority of these approaches rely on static, steady-state measurements. We are combining deep learning approaches with quantitative perturbations and genomic measurements of chromatin and gene expression to reveal additional layers of the cis-regulatory code. We aim to eventually be able to predict quantitative dosage effects across TFs and cell types.
+Recent advances in machine learning and artifical intelligence have made substantial advances in learning the sequence features that predict cell type-specific chromatin and gene regulatory networks. However, the vast majority of these approaches rely on static, steady-state measurements. We are combining deep learning approaches with quantitative perturbations and genomic measurements of chromatin and gene expression to reveal hidden layers of the cis-regulatory code. We aim to eventually be able to predict quantitative TF dosage effects in any cell type from sequence alone.
 
 
 {% endcapture %}
