@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-magnifying-glass" %}Research
 
-Gene expression levels are precisely regulated during development, and quantitative perturbations to this process are a frequent cause of both rare and common human disease. However, most experimental tools that have been applied to study gene function are binary in nature. Therefore, our overarching goal is to develop and apply tools to quantitatively perturb gene regulation to understand both basic mechanisms of gene regulation and how this goes awry in disease.
+Gene expression levels are precisely regulated during development; quantitative perturbations to this process are a frequent cause of both rare and common human disease. However, most experimental tools that have been applied to study gene function are binary in nature. Therefore, our overarching goal is to develop and apply tools to quantitatively perturb gene regulation to understand both basic mechanisms of gene regulation and how this goes awry in disease.
 
-Much of the lab's work centers on transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters to ensure the sufficient and timely production of RNA (or lack thereof). TFs are highly dosage-sensitive - quantitative changes of 50% or less in TF levels frequently cause rare disorders or common trait variation.  
+Much of the lab's work centers on transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters and modulate the production of RNA from target genes. TFs are highly dosage-sensitive - quantitative changes of 50% or less in TF levels frequently cause rare disorders or common trait variation.   
 
 {% include tags.html tags="publication, resource, website" %}
 
