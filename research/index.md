@@ -21,7 +21,7 @@ Much of the lab's work centers on transcription factors (TFs), proteins that bin
 
 {% capture text %}
 
-In addition to being dosage-sensitive, TFs are pleiotropic - one TF can have important roles in multiple cell types. Despite these broad roles, TF dosage sensitivity often manifests in one or a handful of cell types. To understand what drives this specificity, we study the human neural crest, a transient, embryonic cell population that gives rise to a fascinating array of cell types and tissues. Understanding why specific neural crest lineages are sensitive to dosage of broadly important TFs will yield new insights into developmental disorders that affect organ systems as diverse as the face, as in craniofacial malformations, and the gut, such as the loss of the enteric nervous system in Hirschsprung's disease.   
+In addition to being dosage-sensitive, TFs are pleiotropic - one TF can have important roles in multiple cell types. Despite these broad roles, TF dosage sensitivity typically impacts one or a few cell types. To understand what drives this specificity, we study the human neural crest, a transient, embryonic cell population that gives rise to a fascinating array of cell types and tissues. Understanding why specific neural crest lineages are sensitive to dosage of broadly important TFs will yield new insights into developmental disorders that affect organ systems as diverse as the face, as in craniofacial malformations, and the gut, such as the loss of the enteric nervous system in Hirschsprung's disease.   
 
 
 {% endcapture %}
