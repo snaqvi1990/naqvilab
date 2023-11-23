@@ -29,7 +29,6 @@ In addition to being dosage-sensitive, TFs are pleiotropic - one TF can have imp
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
   title="Cell type specificity of TF dosage sensitivity"
   flip=true
   style="bare"
@@ -46,7 +45,6 @@ Recent advances in machine learning and artifical intelligence have made substan
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
   title="Machine learning to decode gene regulatory mechanisms"
   text=text
 %}
@@ -60,7 +58,6 @@ We and others have developed and applied degron-based approaches that can precis
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
   title="Expanding the scope and scale of quantitative perturbations"
   flip=true
   style="bare"
@@ -76,7 +73,6 @@ Text
 {%
   include feature.html
   image="images/sphere_confocal.jpg"
-  link="team"
   title="Connecting TF dosage to morphology across multiple scales"
   text=text
 %}
