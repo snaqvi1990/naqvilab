@@ -73,7 +73,7 @@ Text
 {%
   include feature.html
   image="images/sphere_confocal.jpg"
-  title="Connecting TF dosage to cellular and morphological behaviors"
+  title="From TF dosage to cellular and morphological behavior"
   text=text
 %}
 
