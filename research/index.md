@@ -75,7 +75,7 @@ Text
 
 {%
   include feature.html
-  image="images/sphere_cropped.jpg"
+  image="images/sphere_confocal.jpg"
   link="team"
   title="Connecting TF dosage to morphology across multiple scales"
   text=text
