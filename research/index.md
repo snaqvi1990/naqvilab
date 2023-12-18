@@ -66,7 +66,7 @@ We and others have developed and applied degron-based approaches that can precis
 
 {% capture text %}
 
-While TFs are defined by their molecular function as regulators of gene expression, their dosage changes ultimately cause disease by resulting in specific changes to cellular behavior and/or tissue morphology and growth. We are combining stem cell derived organoid models of human development with live-cell imaging to understand how quantitaive changes in TF dosage percolate through different levels of scale. We hope that this integrated platform will reveal novel therapeutic approaches to prevent or reverse dosage-sensitive developmental disorders.      
+While TFs are defined by their molecular function as regulators of gene expression, their dosage changes ultimately cause disease by resulting in specific changes to cellular behavior and/or tissue morphology and growth. We are combining stem cell-derived organoid models of human development with live-cell imaging to understand how quantitative changes in TF dosage percolate through different levels of scale. We hope that this integrated platform will reveal novel therapeutic approaches to prevent or reverse dosage-sensitive developmental disorders.      
 
 {% endcapture %}
 
