@@ -25,7 +25,7 @@ Students enrolled in one of the <a href="https://gsas.harvard.edu/office/harvard
 Prospective graduate students with an interest in the lab's work but unsure of which graduate program to apply to should write in advance of applying to discuss - graduate school admissions can be complex and daunting to navigate and we are happy to provide advice!
 {% include section.html %}
 
-## Research associates
+## Research assistants
 
 Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with your CV, a statement of your interests, and a rough estimate of how long you plan to stay in the lab (if you plan on applying to graduate programs while in the lab).
 
