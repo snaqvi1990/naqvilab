@@ -13,12 +13,8 @@
 ## Research
 {:.center}
 
-{%
-  include feature.html
-  image="images/main_fig_draft.png"
-  link="research"
-  align=center
-%}
+{% include figure.html image="images/main_fig_draft.png" width="100%" %}
+
 We seek to understand the quantitative control of gene expression in development and the resulting "tipping points" in disease, knowledge that can lead to more precise, controlled therapies for a range of rare and common disorders.     
 <br>
  To achieve these goals, we combine functional genomics and computational modeling using stem cell-derived _in vitro_ models of development. A common theme across projects is the use of highly quantitative tools and approaches: "analog genomics". 
