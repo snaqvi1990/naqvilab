@@ -44,7 +44,7 @@ Recent advances in machine learning and artifical intelligence have made substan
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ml.png"
   title="Machine learning to decode gene regulatory mechanisms"
   text=text
 %}
