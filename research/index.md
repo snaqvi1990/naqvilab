@@ -57,7 +57,7 @@ We and others have developed and applied degron-based approaches that can precis
 
 {%
   include feature.html
-  image="images/network_titration.jpg"
+  image="images/network_titration.png"
   title="Expanding the scope and scale of quantitative perturbations"
   flip=true
   style="bare"
