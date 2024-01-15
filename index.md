@@ -15,7 +15,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/main_fig_draft.png"
   link="research"
 %}
 We seek to understand the quantitative control of gene expression in development and the resulting "tipping points" in disease, knowledge that can lead to more precise, controlled therapies for a range of rare and common disorders.     
