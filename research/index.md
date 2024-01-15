@@ -28,7 +28,7 @@ In addition to being dosage-sensitive, TFs are pleiotropic - one TF can have imp
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cell_type_spec.png"
   title="Cell type specificity of TF dosage sensitivity"
   flip=true
   style="bare"
