@@ -9,9 +9,9 @@ nav:
 
 Gene expression levels are precisely regulated during development; quantitative perturbations to this process are a frequent cause of both rare and common human disease. However, most experimental tools that have been applied to study gene function are binary in nature. Therefore, our overarching goal is to develop and apply tools to quantitatively perturb gene regulation to understand both basic mechanisms of gene regulation and how this goes awry in disease.
 
-Much of the lab’s work centers on transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters and modulate the production of RNA from target genes. TFs are highly dosage-sensitive; quantitative changes of 50% or less in TF levels frequently cause rare disorders or common trait variation. 
+Transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters and modulate the production of RNA from target genes, are key drivers of developmental regulatory programs. TFs are highly dosage-sensitive; quantitative changes of 50% or less in TF levels frequently cause rare disorders or common trait variation. By quantitatively modulating the levels of TFs and assaying downstream changes in chromatin state and gene expression, we can therefore identify target enhancers and genes sensitive to TF dosage that are likely the drivers of associated diseases.
 
-We recently developed an approach to precisely modulate TF levels, and are now combining this and other methods with stem cell-derived models of development to understand how TFs control developmental regulatory programs and how this control leads to distinct modes of variation and disease when quantitatively perturbed.
+
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -53,7 +53,7 @@ Recent advances in machine learning and artifical intelligence have made substan
 
 {% capture text %}
 
-We and others have developed and applied degron-based approaches that can precisely manipulate protein levels, but with low throughput. CRISPR-based methods for titrating gene expression are higher throughput, but with lower precision. We aim to develop novel techniques for precise manipulation of protein levels for dozens to hundreds of genes in a single experiment. Such methods could be used to quantitatively assay essentially every expressed TF in a given cell type, allowing us to query why some TFs are more dosage-sensitive than others.
+We and others have developed and applied chemicaly biology-based approaches that can precisely manipulate protein levels, but with low throughput. CRISPR-based methods for titrating gene dosage are higher throughput, but with lower precision. We aim to develop novel techniques for precise manipulation of protein levels for dozens to hundreds of genes in a single experiment. Such methods could be used to quantitatively assay essentially every expressed TF in a given cell type, allowing us to query why some TFs are more dosage-sensitive than others.
 
 {% endcapture %}
 
