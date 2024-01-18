@@ -9,8 +9,7 @@ nav:
 
 Gene expression levels are precisely regulated during development; quantitative perturbations to this process are a frequent cause of both rare and common human disease. However, most experimental tools that have been applied to study gene function are binary in nature. Therefore, our overarching goal is to develop and apply tools to quantitatively perturb gene regulation to understand both basic mechanisms of gene regulation and how this goes awry in disease.
 
-Transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters and modulate the production of RNA from target genes, are key drivers of developmental regulatory programs. TFs are highly dosage-sensitive; quantitative changes of 50% or less in TF levels frequently cause rare disorders or common trait variation. By quantitatively modulating the levels of TFs and assaying downstream changes in chromatin state and gene expression, we can therefore identify target enhancers and genes sensitive to TF dosage that are likely the drivers of associated diseases.
-
+Transcription factors (TFs), proteins that bind to noncoding regulatory DNA such as enhancers and promoters and modulate the production of RNA from target genes, are key drivers of developmental regulatory programs. TFs are highly dosage-sensitive; quantitative changes of 50% or less in TF levels frequently cause rare disorders or common trait variation. We recently developed an approach to precisely modulate TF dosage in human stem cells and their derivatives; we are now using this approach to build quantitative and predictive models of how TF dosage impacts molecular, cellular, and morphological phenotypes, with the goal of identifying the enhancers, genes, and cell states that are most sensitive to TF dosage and thus drivers of disease.
 
 
 {% include tags.html tags="publication, resource, website" %}
