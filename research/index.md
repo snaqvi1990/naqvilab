@@ -60,7 +60,7 @@ We and others have developed and applied chemicaly biology-based approaches that
 
 {%
   include feature.html
-  image="images/network_titration.png"
+  image="images/network_titration2.png"
   title="Expanding the scope and scale of quantitative perturbations"
   flip=true
   style="bare"
