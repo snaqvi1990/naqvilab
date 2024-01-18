@@ -40,8 +40,8 @@ We seek to understand the quantitative control of gene expression in development
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="blog"
+  text="Join us!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
