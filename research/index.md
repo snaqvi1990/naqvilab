@@ -40,7 +40,7 @@ In addition to being dosage-sensitive, TFs are pleiotropic - one TF can have imp
 
 {% capture text %}
 
-Recent advances in machine learning and artifical intelligence have made substantial advances in learning the sequence features that predict cell type-specific chromatin and gene regulatory networks. However, the vast majority of these approaches rely on static, steady-state measurements. We are combining deep learning approaches with quantitative perturbations and functional genomic data to reveal hidden layers of the cis-regulatory code. Ultimately, we aim to accurately predict quantitative TF dosage effects in any cell type, from sequence alone.
+Recent advances in machine learning and artifical intelligence have made substantial advances in learning the sequence features that predict cell type-specific chromatin and gene regulatory networks. However, the vast majority of these approaches rely on static, steady-state measurements. We are combining deep learning approaches with quantitative perturbations and functional genomic data to reveal hidden layers of the cis-regulatory code that predict responsiveness of enhancers and genes to TF dosage. Ultimately, we aim to accurately predict quantitative TF dosage effects in any cell type, from sequence alone.
 
 
 {% endcapture %}
