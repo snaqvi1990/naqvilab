@@ -54,7 +54,7 @@ Recent advances in machine learning and artifical intelligence have made substan
 
 {% capture text %}
 
-We and others have developed and applied chemicaly biology-based approaches that can precisely manipulate protein levels, but with low throughput. CRISPR-based methods for titrating gene dosage are higher throughput, but with lower precision. We aim to develop novel techniques for precise manipulation of protein levels for dozens to hundreds of genes in a single experiment. Such methods could be used to quantitatively assay essentially every expressed TF in a given cell type, allowing us to query why some TFs are more dosage-sensitive than others.
+We and others have developed and applied chemicaly biology-based approaches that can precisely manipulate protein levels, but with low throughput. CRISPR-based methods for titrating gene dosage are higher throughput, but with lower precision. We aim to develop novel techniques for precise manipulation of protein levels for dozens to hundreds of genes in a single experiment. Such methods could be used to quantitatively assay essentially every expressed TF in a given cell type, allowing us to query why some TFs are more dosage-sensitive than others and provide a quantitative view of gene regulatory networks otherwise mapped through complete loss of function.
 
 {% endcapture %}
 
