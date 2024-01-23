@@ -83,6 +83,7 @@
   orcid: 0000-0003-2635-7967
   plugin: sources.py
   file: sources.yaml
+  remove: y
 - id: doi:10.1038/s41588-023-01366-2
   title: Precise modulation of transcription factor levels identifies features underlying
     dosage sensitivity
@@ -518,15 +519,13 @@
   title: DNA-guided transcription factor cooperativity shapes face and limb mesenchyme
   authors:
   - Seungsoo Kim
-  - Ekaterina Morgunova
-  - Sahin Naqvi
-  - Seppe Goovaerts
+  - Ekaterina Morgunova<span>&#42;</span>
+  - Sahin Naqvi<span>&#42;</span>
   - Maram Bader
   - Mervenaz Koska
   - Alexander Popov
   - Christy Luong
   - Angela Pogson
-  - Tomek Swigut
   - Peter Claes
   - Jussi Taipale
   - Joanna Wysocka
