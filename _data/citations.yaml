@@ -514,6 +514,27 @@
   orcid: 0000-0003-2635-7967
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cell.2023.12.032
+  title: DNA-guided transcription factor cooperativity shapes face and limb mesenchyme
+  authors:
+  - Seungsoo Kim
+  - Ekaterina Morgunova
+  - Sahin Naqvi
+  - Seppe Goovaerts
+  - Maram Bader
+  - Mervenaz Koska
+  - Alexander Popov
+  - Christy Luong
+  - Angela Pogson
+  - Tomek Swigut
+  - Peter Claes
+  - Jussi Taipale
+  - Joanna Wysocka
+  publisher: Cell
+  date: '2024-01-01'
+  link: https://doi.org/gtfj2r
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1146/annurev-genom-120121-102607
   title: 'Decoding the Human Face: Progress and Challenges in Understanding the Genetics
     of Craniofacial Morphology'
