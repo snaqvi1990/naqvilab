@@ -13,7 +13,7 @@
 ## Research
 {:.center}
 
-{% include figure.html image="images/main_fig_draft_wcell_short_nobar_rot_facegut.png" width="85%" %}
+{% include figure.html image="images/main_fig_draft_wcell_short_nobar_rot_facegut.png" width="95%" caption="Icons from BioRender.com and the Noun Project"%}
 
 We seek to understand the quantitative control of gene expression in development and the resulting "tipping points" in disease, knowledge that can lead to more precise, controlled therapies for a range of rare and common disorders.     
 <br>
