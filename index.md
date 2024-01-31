@@ -71,30 +71,6 @@ We seek to understand the quantitative control of gene expression in development
 
 {% include section.html %}
 
-## Support
-{:.center}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/bch.png"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/nidcr.png"
-%}
-
-{% endcapture %}
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html %}
-
 ## Affiliations
 {:.center}
 
