@@ -15,7 +15,7 @@ We are seeking to build a welcoming, inclusive, and intellectually engaging envi
 {% include section.html %}
 
 ## Postdoctoral fellows
-Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with your overarching scientific interests, research areas in the Naqvi lab that you are interested in pursuing, and a brief summary of your graduate research. Please include your CV as well as names and contact information for three references. 
+Please <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with your overarching scientific interests, research areas in the Naqvi Lab that you are interested in pursuing, and a brief summary of your graduate research. Please include your CV as well as names and contact information for three references. 
 {% include section.html %}
 
 ## Graduate students
