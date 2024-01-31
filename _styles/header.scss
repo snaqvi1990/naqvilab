@@ -117,7 +117,11 @@ nav > a:hover {
 header:not([data-big]) {
   @media (max-width: $collapse) {
     justify-content: flex-end;
-
+    
+    .title > *:last-child {
+      display: none;
+    }
+    
     .nav-toggle {
       display: flex;
     }
@@ -131,6 +135,7 @@ header:not([data-big]) {
       flex-direction: column;
       width: 100%;
     }
+    
   }
 }
 
