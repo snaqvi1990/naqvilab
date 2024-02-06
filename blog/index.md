@@ -39,7 +39,7 @@ We welcome enquiries from students enrolled in any college or university. Please
 
 ## Visiting students
 
-Master's or PhD students from other labs in the U.S. or internationally are welcome to <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with a CV, statement of interests, and approximate timeframe.  
+Master's or PhD students enrolled in programs in the U.S. or internationally are welcome to <a href="mailto:sahin.naqvi@gmail.com">email Sahin</a> with a CV, statement of interests, and approximate timeframe. 
 
 {% include section.html %}
 
