@@ -13,7 +13,7 @@ Starting July 2024, we will be a part of the <a href="https://www.childrenshospi
   include button.html
   type="email"
   text="Email Sahin"
-  link="sahin.naqvi@gmail.com"
+  link="sahin.naqvi@childrens.harvard.edu"
 %}
 {%
   include button.html
