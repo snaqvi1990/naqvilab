@@ -27,7 +27,7 @@ Prospective graduate students with an interest in the lab's work but unsure of w
 
 ## Research assistants
 
-Please <a href="mailto:sahin.naqvi@childrens.harvard.edu">email Sahin</a> with your CV, a statement of your interests, and a rough estimate of how long you plan to stay in the lab (if you plan on applying to graduate programs while in the lab). Alternatively, you can directly apply to the <a href="https://jobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=368&siteid=5205&Areq=73905BR">official BCH posting</a> (up-to-date as of March 2024).
+Please <a href="mailto:sahin.naqvi@childrens.harvard.edu">email Sahin</a> with your CV, a statement of your interests, and a rough estimate of how long you plan to stay in the lab (if you plan on applying to graduate programs while in the lab).
 
 {% include section.html %}
 
