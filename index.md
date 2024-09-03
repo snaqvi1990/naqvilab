@@ -91,6 +91,14 @@ We seek to understand the quantitative control of gene expression in development
   link="https://hms.harvard.edu/"
 %}
 
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/broad.png"
+  link="https://broadinstitute.org/"
+%}
+
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
 {% include section.html %}
