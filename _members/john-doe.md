@@ -1,7 +1,7 @@
 ---
 name: You? 
 image: images/question.png
-role: 
+role: you
 group: alum
 links:
 ---
