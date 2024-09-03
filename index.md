@@ -91,6 +91,8 @@ We seek to understand the quantitative control of gene expression in development
   link="https://hms.harvard.edu/"
 %}
 
+{% endcapture %}
+
 {% capture col3 %}
 
 {%
