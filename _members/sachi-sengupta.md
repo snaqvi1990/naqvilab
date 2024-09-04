@@ -1,6 +1,6 @@
 ---
 name: Sachi Sengupta
-image: images/sachi_ucla.jpg
+image: images/sachi_ucla.jpeg
 role: ra
 aliases:
   - S. Sengupta
