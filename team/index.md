@@ -6,8 +6,16 @@ nav:
 ---
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
-{% include list.html data="members" component="portrait" filters="role: ra" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+{%
+  include button.html
+  link="blog"
+  text="Join us!"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 {% include section.html %}
 
 
