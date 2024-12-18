@@ -14,7 +14,7 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-ra:
+research-assistant:
   icon: fa-solid fa-flask
   description: Research Assistant
 
