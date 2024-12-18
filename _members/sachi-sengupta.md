@@ -1,7 +1,7 @@
 ---
 name: Sachi Sengupta
 image: images/sachi_ucla.jpeg
-role: ra
+role: research-assistant
 aliases:
   - S. Sengupta
   - S Sengupta
