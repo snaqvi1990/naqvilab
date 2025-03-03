@@ -6,7 +6,7 @@ nav:
 ---
 
 ## Selected Publications (<span>&#42;</span>equal contribution, <sup>‡</sup>co-corresponding)
-{% include citation.html lookup="doi:10.1101/2024.05.28.596078" style="basic" %}
+{% include citation.html lookup="doi:10.1016/j.xgen.2025.100780" style="basic" %}
 
 {% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="basic" %}
 
