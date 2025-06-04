@@ -33,7 +33,9 @@ We seek to understand the quantitative control of gene expression in development
 {:.center}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: research-assistant" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {%
   include button.html
