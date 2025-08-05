@@ -14,8 +14,6 @@ nav:
 
 {% include citation.html lookup="doi:10.7554/eLife.58615" style="basic" %}
 
-{% include citation.html lookup="doi:10.1126/science.aaw7317" style="basic" %}
-
 {% include section.html %}
 
 ## All Publications (<span>&#42;</span>equal contribution, <sup>‡</sup>co-corresponding)
