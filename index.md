@@ -59,8 +59,6 @@ We seek to understand the quantitative control of gene expression in development
 
 {% include citation.html lookup="doi:10.7554/eLife.58615" style="basic" %}
 
-{% include citation.html lookup="doi:10.1126/science.aaw7317" style="basic" %}
-
 {%
   include button.html
   link="publications"
