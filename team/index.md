@@ -15,4 +15,13 @@ nav:
 {% include section.html %}
 
 
+## Alumni
+{:.center}
+
+{% include list.html data="members" component="portrait" filters="role: postdoc, status: alum" %}
+{% include list.html data="members" component="portrait" filters="role: research-assistant, status: alum" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, status: alum" %}
+
+{% include section.html %}
+
 
