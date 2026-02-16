@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-## Selected Publications (<span>&#42;</span>equal contribution, <sup>‡</sup>co-corresponding) Naqvi lab members in bold
+## Selected Publications (<span>&#42;</span>equal contribution, <sup>‡</sup>co-corresponding)
 {% include citation.html lookup="doi:10.1016/j.xgen.2025.100780" style="basic" %}
 
 {% include citation.html lookup="doi:10.1038/s41588-023-01366-2" style="basic" %}
