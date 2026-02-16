@@ -2,11 +2,47 @@
 cite process to convert sources and metasources into full citations
 """
 
+import re
 import traceback
+import yaml
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
 from util import *
+
+
+def get_member_names():
+    """
+    read member names from _members/*.md front matter
+    """
+
+    names = []
+    for file in Path("_members").glob("*.md"):
+        with open(file, encoding="utf8") as f:
+            content = f.read()
+        # parse YAML front matter between --- delimiters
+        match = re.match(r"^---\s*\n(.*?)\n---", content, re.DOTALL)
+        if match:
+            front_matter = yaml.safe_load(match.group(1))
+            name = front_matter.get("name", "")
+            if name:
+                names.append(name)
+    return names
+
+
+def bold_member_names(citations, member_names):
+    """
+    bold member names in citation author lists
+    """
+
+    for citation in citations:
+        authors = citation.get("authors", [])
+        for i, author in enumerate(authors):
+            for name in member_names:
+                if name in author:
+                    authors[i] = author.replace(name, f"<strong>{name}</strong>", 1)
+                    break
+    return citations
 
 
 # load environment variables
@@ -160,6 +196,15 @@ for index, source in enumerate(sources):
     # add new citation to list
     citations.append(citation)
 
+
+log()
+
+log("Bolding member names in citations")
+
+# read member names and bold them in author lists
+member_names = get_member_names()
+log(f"Found {len(member_names)} member name(s)", 1)
+citations = bold_member_names(citations, member_names)
 
 log()
 
