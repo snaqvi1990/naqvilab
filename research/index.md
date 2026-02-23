@@ -55,7 +55,7 @@ Recent advances in machine learning and artificial intelligence have made substa
 
 {%
   include feature.html
-  image="images/seqactivity_dl.png"
+  image="images/ml.png"
   title="Sequence-to-activity deep learning models to decode regulatory mechanisms"
   flip=true
   style="bare"
