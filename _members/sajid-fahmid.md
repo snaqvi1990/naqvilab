@@ -1,6 +1,6 @@
 ---
 name: Sajid Fahmid
-image: images/sajid.PNG
+image: images/sajid.jpg
 role: undergrad
 aliases:
   - S. Fahmid
