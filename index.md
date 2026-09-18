@@ -50,6 +50,7 @@ We seek to understand the quantitative control of gene expression in development
 
 ## Key publications
 {:.center}
+{% include citation.html lookup="doi:10.64898/2026.09.11.751045" style="basic" %}
 
 {% include citation.html lookup="doi:10.1016/j.xgen.2025.100780" style="basic" %}
 
