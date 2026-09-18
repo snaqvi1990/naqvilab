@@ -1,12 +1,13 @@
 - id: doi:10.64898/2026.09.11.751045
   authors:
-  - Sunil Guharajan
-  - Xiangyang Song
+  - Sunil Guharajan<span>&#42;</span>
+  - Xiangyang Song<span>&#42;</span>
   - Qiong Wu
   - Sachi Sengupta
   - Wenyi Wei
   - Yan Xiong
-  - Jian Jin
+  - Jian Jin<sup>‡</sup>
+  - Sahin Naqvi<sup>‡</sup>
   publisher: bioRxiv
 
 - id: doi:10.64898/2025.12.29.696848
